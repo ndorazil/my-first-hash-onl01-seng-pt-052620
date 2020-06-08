@@ -1,7 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  favorite_types_of_music = {"rock" => "Okay, I can dig it", "pop" => "Not the stuff that's on the radio..."}
 end
 
 
